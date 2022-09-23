@@ -12,7 +12,7 @@ As fractional CTO I focus specifically on
 
 You can tip me in XMR 43EE5CAOYJ1AHACB5I5QSPHKRHXKXTGM7YXKUW6TMKISJE5RQZUSFTUJE4VQWN2QXDGNBEN46LRSLIHY4EQQQKK16JBMYNP
 
-🇺🇦 STOP PUTIN'S WAR, SLAVA UKRAINI! 🇺🇦
+:blue_square: :yellow_square: STOP PUTIN'S WAR, SLAVA UKRAINI! :blue_square: :yellow_square: 
 
 <!--
 **stnslwk/stnslwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
